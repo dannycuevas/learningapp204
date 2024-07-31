@@ -199,3 +199,11 @@ C:\az204demo\learningapp\obj\Debug\net8.0\refint\learningapp.dll
 C:\az204demo\learningapp\obj\Debug\net8.0\learningapp.pdb
 C:\az204demo\learningapp\obj\Debug\net8.0\learningapp.genruntimeconfig.cache
 C:\az204demo\learningapp\obj\Debug\net8.0\ref\learningapp.dll
+C:\az204demo\learningapp\bin\Debug\net8.0\Azure.Data.AppConfiguration.dll
+C:\az204demo\learningapp\bin\Debug\net8.0\Azure.Messaging.EventGrid.dll
+C:\az204demo\learningapp\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\az204demo\learningapp\bin\Debug\net8.0\DnsClient.dll
+C:\az204demo\learningapp\bin\Debug\net8.0\Microsoft.Azure.AppConfiguration.AspNetCore.dll
+C:\az204demo\learningapp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
+C:\az204demo\learningapp\bin\Debug\net8.0\System.ClientModel.dll
+C:\az204demo\learningapp\obj\Debug\net8.0\learningapp.sourcelink.json
